@@ -1,0 +1,33 @@
+body {
+  color: black !important;
+  background-color: white !important;
+}
+
+.pink {
+  color: black !important;
+  font-weight:900;
+}
+
+.bold {
+  color: black !important;
+  font-weight:900;
+}
+
+.green {
+  color: black !important;
+  font-weight:900;
+}
+
+.yellow {
+  color: black !important;
+}
+
+.magenta {
+  color: black !important;
+  font-weight:900;
+}
+
+.sidebar {
+	display: none !important;
+  font-weight:900;
+}
