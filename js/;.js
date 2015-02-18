@@ -6,7 +6,7 @@ function show(x) {
   // $($('.pages').children()[x]).addClass('shown');
 
   switch (x){
-  case "#cv":
+  case "cv":
   	$('.mainpage').load('/cv.html');
 	break;
   default:
@@ -16,8 +16,5 @@ function show(x) {
 
 $(window).load(function() {
   var param = document.URL.split('/').reverse().shift();
-  console.log(param);
-  if(param.substr(0,1) == '#'){
-    show(param);
-  }
+  show(param);
 });
