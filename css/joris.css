@@ -8,6 +8,10 @@ h1 {
   width: 99%;
 }
 
+.ul {
+  margin-top: 0px;
+}
+
 .contactz a {
   text-decoration: none; /* no underline */
 }
