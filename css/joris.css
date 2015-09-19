@@ -1,0 +1,109 @@
+/* Please don't judge me :( */
+
+h1 {
+  margin-bottom: 5px;
+}
+
+.container {
+  width: 99%;
+}
+
+.contactz a {
+  text-decoration: none; /* no underline */
+}
+
+.posts a {
+  text-decoration: none; /* no underline */
+}
+
+.studies .row {
+  margin-bottom: 10px;
+}
+
+.posts h3 {
+  margin-bottom: 1px;
+}
+
+.cvlink {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  display:block;
+  text-decoration: none; /* no underline */
+}
+
+.contact-icon {
+  margin-right: 3px;
+}
+
+html, body {
+  /*font-family: 'Inconsolata', random !important;*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.35 !important;
+}
+
+.me {
+  border-radius: 5px;
+}
+
+.studies h2 {
+  margin-bottom: 5px;
+}
+
+.contactz {
+  font-family: 'Droid Sans Mono', x !important;
+  font-weight: 400;
+  font-size: 0.83em !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /*font-family: 'Inconsolata', random !important;*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+/* *small* mobile */
+@media (max-width: 400px) {
+  .cv-sidebar h1, h2  {
+    font-size: 2.2em;
+  }
+}
+
+/* Larger than mobile aka iphone6plus-ish*/
+@media (min-width: 400px) {
+  .cv-sidebar h1, h2 {
+    font-size: 3.3em;
+  }
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  .cv-sidebar h1, h2 {
+    font-size: 1.1em;
+  }
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+  .cv-sidebar h1, h2 {
+    font-size: 1.5em;
+  }
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+  .cv-sidebar h1, h2 {
+    font-size: 1.9em;
+  }
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
+
+
+.gold {
+  color: #FFD700;
+}
+
+.bronze {
+  color: #CD7F32;
+}
