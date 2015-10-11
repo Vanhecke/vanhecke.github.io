@@ -8,10 +8,6 @@ h1 {
   width: 99%;
 }
 
-.ul {
-  margin-top: 0px;
-}
-
 .contactz a {
   text-decoration: none; /* no underline */
 }
@@ -111,3 +107,13 @@ h1, h2, h3, h4, h5, h6 {
 .bronze {
   color: #CD7F32;
 }
+
+.silver {
+	color: silver;
+}
+
+
+.forprint {
+	display: none;
+}
+

@@ -31,3 +31,33 @@ body {
 	display: none !important;
   font-weight:900;
 }
+
+h1, h2, h3, h4, h5, a, a:visited {
+	color: black;
+}
+
+.cv-sidebar {
+	display: none;
+}
+
+.forprint {
+	display: inline;
+}
+
+body {
+	background-color: white;
+	margin: 0 auto;
+	max-width: -1;
+	border: none;
+	padding: 1em;
+}
+
+.contactline {
+	border-top: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.me-print {
+	margin-top: 8px;
+}
