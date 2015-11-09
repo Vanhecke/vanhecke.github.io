@@ -37,7 +37,7 @@ h1 {
 
 html, body {
   /*font-family: 'Inconsolata', random !important;*/
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   line-height: 1.35 !important;
 }
 
@@ -57,7 +57,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   /*font-family: 'Inconsolata', random !important;*/
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: 400;
 }
 
@@ -116,4 +116,3 @@ h1, h2, h3, h4, h5, h6 {
 .forprint {
 	display: none;
 }
-
