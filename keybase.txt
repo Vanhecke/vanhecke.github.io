@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/joris_vanhecke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jorisvanhecke.be
+  * I am joris_vanhecke (https://keybase.io/joris_vanhecke) on keybase.
+  * I have a public key ASAaD3shMSNTsTTVsmsW2g9-Wld6IwAL18UFoZfS5ynriwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201a0f7b21312353b134d5b26b16da0f7e5a577a23000bd7c505a197d2e729eb8b0a",
+            "host": "keybase.io",
+            "kid": "01201a0f7b21312353b134d5b26b16da0f7e5a577a23000bd7c505a197d2e729eb8b0a",
+            "uid": "0104c6a0716f37c5e7c84adff1a5c319",
+            "username": "joris_vanhecke"
+        },
+        "service": {
+            "hostname": "jorisvanhecke.be",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.6"
+    },
+    "ctime": 1450609755,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1450609658,
+        "hash": "5536d65fb53abcf0583968cfb6d76b901643c28e253f49e71d32a6d35f9c305811923ceaf9fa545fb43c939a8c2c2f2e573246787180a60b89c4d97a7efbce62",
+        "seqno": 336699
+    },
+    "prev": "53a32f2cf8949d08165ad165126ac864f6af0a6164a5150d92111efb394f5cac",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGg97ITEjU7E01bJrFtoPflpXeiMAC9fFBaGX0ucp64sKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWEwZjdiMjEzMTIzNTNiMTM0ZDViMjZiMTZkYTBmN2U1YTU3N2EyMzAwMGJkN2M1MDVhMTk3ZDJlNzI5ZWI4YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWEwZjdiMjEzMTIzNTNiMTM0ZDViMjZiMTZkYTBmN2U1YTU3N2EyMzAwMGJkN2M1MDVhMTk3ZDJlNzI5ZWI4YjBhIiwidWlkIjoiMDEwNGM2YTA3MTZmMzdjNWU3Yzg0YWRmZjFhNWMzMTkiLCJ1c2VybmFtZSI6ImpvcmlzX3ZhbmhlY2tlIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqb3Jpc3ZhbmhlY2tlLmJlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC42In0sImN0aW1lIjoxNDUwNjA5NzU1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTA2MDk2NTgsImhhc2giOiI1NTM2ZDY1ZmI1M2FiY2YwNTgzOTY4Y2ZiNmQ3NmI5MDE2NDNjMjhlMjUzZjQ5ZTcxZDMyYTZkMzVmOWMzMDU4MTE5MjNjZWFmOWZhNTQ1ZmI0M2M5MzlhOGMyYzJmMmU1NzMyNDY3ODcxODBhNjBiODljNGQ5N2E3ZWZiY2U2MiIsInNlcW5vIjozMzY2OTl9LCJwcmV2IjoiNTNhMzJmMmNmODk0OWQwODE2NWFkMTY1MTI2YWM4NjRmNmFmMGE2MTY0YTUxNTBkOTIxMTFlZmIzOTRmNWNhYyIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJKeAhc73z2ZkCc/c1fv9TW6R0QCeXNAtRLqiI43pSabADU7AEgzBYzLjAQmwLWDNvGCQHkFpNVetVmX5CTmLgWoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joris_vanhecke
+
+==================================================================
